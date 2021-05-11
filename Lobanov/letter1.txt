@@ -1,0 +1,116 @@
+Дорогой Миша!
+Обещанная статья Хунцикера
+Потом посмотрим.
+ В качестве бонуса  после подписи - наши результаты внутренних обсуждений, резюме Андрея Николаева.
+
+Алексей Иванович Лобанов
+профессор кафедры  вычислительной физики МФТИ
+
+Итак, как уже упоминалось, проф. Hunziker предложил альтернативную модель полимеризации фибрина еще в конце 80х. На мой взгляд верную. Основой модели являлось предположение, что фибрин начинает полимеризоваться будучи частично активированным и двойная цепочка с полусдвигом (half-staggered double stranded -- HSDS далее) не есть наиболее вероятная форма полимера вначале процесса, а появляется позже и при наличии определенных условий. Экспериментальное обосноание модели производилось путем проведения обширной серии разнообразных экспериментов по электронной микроскопии ранних форм полимеров фибрина.
+
+Подробно здесь:
+Hunziker EB, Straub PW, Haeberli A. A new concept of fibrin formation based
+upon the linear growth of interlacing and branching polymers and molecular
+alignment into interlocked single-stranded segments. J Biol Chem. 1990 May
+5;265(13):7455-63. PubMed PMID: 2332436.
+
+Также есть предыдущие работы, которые недоступны в публичном доступе, однако возможно их взять по сети:
+
+(**) Hunziker, E. B., Haeberli, A., and Straub, P. W. (1985) Thromb. Haemostasis 54, 2 (abstr.)
+(*) Hunziker, E. B., Haeberli, A., and Straub, P. W. Molecular morphology of fibrin monomers and early oligomers during fibrin polymerization (1988) J Ultrastruct Mol Struct Res. 1988 Jan;98(1):60-70.
+
+В них могут быть некоторые "исторические аспекты" развития модели.
+Я провел некоторую работу по изучению про- и контра- взглядов Hunziker-а а также посмотрел
+на актуальность.
+Актуальность работ мы уже обсуждали. Тем не менее хотелось бы напомнить.
+Существуют в том числе и экспериментальные свидетельства, что фибрин полимеризуется не
+только в полностью активированной форме, но и в частично активированной. Собственно некоторые
+работы у Фазли в этом направлении велись. Также известно точка зрения, что "final gel architecture (branch point density, pore size) is largerly determined by the time of
+gelation " [1,2]. Естественно, что в зависимости от структуры фибрин будет обладать
+разными прочностными свойствами [3,4]. Более того, над моделью Hunziker-а задумывались
+как в 90-е [5], так и фактически недавно в 2010 [6]. Работа [6] особенно интересна
+тем, что строит мат. модель полимеризации вплоть до желирования и по факту заимствует
+некоторые черты модели Hunziker-а (без ссылки на последнего!), однако кладет в основу
+HSDS форму полимера, что, вероятно и не позволяет ей развиться.
+Существуют свидтельства, что промежуточные(молодые, не HSDS) формы фибрина могут быть
+важны для описания связей клетки-фибрин [7,8,9].
+Аргументами против теории Hunziker-а могут вытупать биохимические работы по выделению
+не полностью активированных форм фибрина и исследованию динамики концентрации
+FPA/FPB в процессе полимеризации [10,11]. Я не специалист в биохимии настолько, чтобы
+оценивать релевантность приведенных работ, но сделать это бы надо. Тем более, что
+в ГНЦ, как я понял, были причины считать, что полуактивированный фибрин существует
+заметное время и влияет на полимеризацию.
+Существуют также некоторые противоречия с прочтением модели Hunziker-а и ее
+аппроксимации на этап латеральной аггрегации фибрина. Некоторые авторы утверждают,
+что в варианте Hunziker-а упорядоченная латеральная аггрегация фибров будет невозможна.
+На чем базируется такое утверждение мне не очень понятно, но с тдругой стороны я
+знаю, что существет заметное количество работ, показывающих, что фибрин упорядочен
+в толстых фибрах в квазикристаллическую упорядоченную структуру.
+
+Соответсвенно, возвращаясь к нашей встрече. Мат. моделирование процессов по версии
+Hunziker-а занятие безусловно интересное, но без экспериментальных работ тут очень
+легко начать строить необоснованные теории. Построить модель можно, (возможно взяв
+кое-какие идеи из [6]), но понять границы ее применимости без экспериментов будет
+невозможно т.к. нет каких-то внятных данных о динамике взросления сети и переходе
+от ранних стадий полимеризации по Hunziker к поздним с преобладанием HSDS. Ну или
+внятных данных, что помимо HSDS на поздних стадиях есть другой фибрин, например
+в окрестностях клеток [7,8]. Поэтому надо бы продумать комплекс исследований сразу.
+
+
+
+References:
+
+1. Blombäck B, Carlsson K, Fatah K, Hessel B, Procyk R. Fibrin in human plasma:
+gel architectures governed by rate and nature of fibrinogen activation. Thromb
+Res. 1994 Sep 1;75(5):521-38. PubMed PMID: 7992253.
+Well known that gel architecture depends on rate and nature of fibrin activation
+Длинный пиздежь о том, как могла бы проходить гелефикация фибрина при разных условиях. Типа , является ли гелевая структура после формирования устойчивой или формируется постепенно на разных характерных длинах (сперва крупная, потом помельче и т.д.)
+
+2. Chernysh IN, Weisel JW. Dynamic imaging of fibrin network formation correlated
+with other measures of polymerization. Blood. 2008 May 15;111(10):4854-61. doi:
+10.1182/blood-2007-08-105247. Epub 2008 Feb 13. PubMed PMID: 18272815; PubMed
+Central PMCID: PMC2384121.
+
+3. Weisel JW. Structure of fibrin: impact on clot stability. J Thromb Haemost.
+2007 Jul;5 Suppl 1:116-24. Review. PubMed PMID: 17635717.
+study of fibrin macroproperties dependance on structure
+
+4. Chandrashekar A, Singh G, Jonah Garry, Sikalas N, Labropoulos N. Mechanical
+and Biochemical Role of Fibrin Within a Venous Thrombus. Eur J Vasc Endovasc
+Surg. 2018 Jan 12. pii: S1078-5884(17)30727-X. doi: 10.1016/j.ejvs.2017.12.002.
+[Epub ahead of print] Review. PubMed PMID: 29336975.
+
+5. Mosesson MW, DiOrio JP, Siebenlist KR, Wall JS, Hainfeld JF. Evidence for a
+second type of fibril branch point in fibrin polymer networks, the trimolecular
+junction. Blood. 1993 Sep 1;82(5):1517-21. PubMed PMID: 8364202.
+
+6. Fogelson AL, Keener JP. Toward an understanding of fibrin branching structure.
+Phys Rev E Stat Nonlin Soft Matter Phys. 2010 May;81(5 Pt 1):051922. Epub 2010
+May 24. PubMed PMID: 20866276; PubMed Central PMCID: PMC2997395.
+
+7. Campbell RA, Overmyer KA, Bagnell CR, Wolberg AS. Cellular procoagulant
+activity dictates clot structure and stability as a function of distance from the
+cell surface. Arterioscler Thromb Vasc Biol. 2008 Dec;28(12):2247-54. doi:
+10.1161/ATVBAHA.108.176008. Epub 2008 Oct 30. PubMed PMID: 18974382; PubMed
+Central PMCID: PMC2773697.
+
+8. Campbell RA, Overmyer KA, Selzman CH, Sheridan BC, Wolberg AS. Contributions
+of extravascular and intravascular cells to fibrin network formation, structure,
+and stability. Blood. 2009 Nov 26;114(23):4886-96. doi:
+10.1182/blood-2009-06-228940. Epub 2009 Oct 1. PubMed PMID: 19797520; PubMed
+Central PMCID: PMC2786294.
+
+9. Chandrashekar A, Singh G, Jonah Garry, Sikalas N, Labropoulos N. Mechanical
+and Biochemical Role of Fibrin Within a Venous Thrombus. Eur J Vasc Endovasc
+Surg. 2018 Jan 12. pii: S1078-5884(17)30727-X. doi: 10.1016/j.ejvs.2017.12.002.
+[Epub ahead of print] Review. PubMed PMID: 29336975.
+
+10. Meh DA, Siebenlist KR, Bergtrom G, Mosesson MW. Comparison of the sequence of
+fibrinopeptide A cleavage from fibrinogen fragment E by thrombin, atroxin, or
+batroxobin. Thromb Res. 1993 Jun 15;70(6):437-49. PubMed PMID: 8362369.
+Сравнили скрорость вырывания первого и второго A-пептида (заглушки для активации А-концов в центре димера) из E-сектора(центрального) фибриногена с помощью 3 энзимов, указанных в названии. Получили значения отношений скоростей отрыва первого и вторго пептидов : 1,1 - тромбин, 1,34 -батроксибин, 0,34 - атроксин. Сделано предположение, что первые 2 часто вырывают оба A-пептида вместе. 
+
+11.  Li X, Galanakis D, Gabriel DA. Transient intermediates in the thrombin
+activation of fibrinogen. Evidence for only the desAA species. J Biol Chem. 1996
+May 17;271(20):11767-71. PubMed PMID: 8662661. 
+Методом фотонной корреляционной спектроскопии установлено преобладание дважды активированного фибриногена перед 1-кратным. Иными словами, получен раствор, соответствующий модели полимеризации фибрина Холла-Слейтера, а не Хунцикера
